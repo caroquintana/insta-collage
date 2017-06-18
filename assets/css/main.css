@@ -6,7 +6,7 @@
 .img-responsive {
     margin: 0 auto;
 }
-/*
+
 section.first-section{
 	width: 100%;
 	height: 100vh;
@@ -19,7 +19,7 @@ h4{
 	font-weight: 300;
 }
 
-img{
+img.logo{
 	margin-top: 50px;
 }
 
@@ -94,7 +94,7 @@ div.lineas p {
 a:hover{
 	text-decoration: none;
 }
-*/
+
 /*Index 2*/
 .collage{
 	width: 100%;
@@ -130,4 +130,9 @@ section.barra{
 }
 .contuno{
 	padding-left: 0;
+}
+
+.tipo{
+	width: 100%;
+	height: 100vh;
 }
