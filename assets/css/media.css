@@ -1,0 +1,28 @@
+@media only screen and (min-width: 1px) and (max-width: 615px){
+	img.logo{
+		width: 180px;
+	}
+	h4.idioma{
+		font-size: 15px;
+	}
+}
+
+@media only screen and (min-width: 616px) and (max-width: 811px){
+	img.logo{
+		width: 260px;
+	}
+	h4.idioma{
+		font-size: 20px;
+	}
+}
+
+
+
+@media only screen and (min-width: 812px){
+	img.logo{
+		width: 260px;
+	}
+	h4.idioma{
+		font-size: 20px;
+	}
+}
