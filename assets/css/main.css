@@ -6,14 +6,13 @@
 .img-responsive {
     margin: 0 auto;
 }
-
+/*
 section.first-section{
 	width: 100%;
 	height: 100vh;
 	background: linear-gradient(to bottom left, #5ED38A, #E38463);
 	background-repeat: no-repeat;
 	color: white;
-	
 }
 
 h4{
@@ -95,5 +94,22 @@ div.lineas p {
 a:hover{
 	text-decoration: none;
 }
-
+*/
 /*Index 2*/
+.collage{
+	width: 100%;
+	height: 50vh;
+}
+
+.contcarrete{
+	padding: 0;
+	display: flex;
+}
+
+.carrete{
+
+	margin: 0 auto;
+}
+.fotos{
+	border: 5px solid black;
+}
