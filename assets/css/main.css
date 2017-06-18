@@ -104,7 +104,8 @@ a:hover{
 section.barra{
 	width: 100%;
 	background-color: black;
-	margin-bottom: 4px;
+	margin-bottom: 0px;
+	height: 57px;
 }
 .pbooth{
 	display: inline-block;
@@ -124,6 +125,7 @@ section.barra{
 
 	margin: 0 auto;
 }
+
 .fotos{
 	border: 5px solid black;
 	width: 118%;
@@ -132,7 +134,20 @@ section.barra{
 	padding-left: 0;
 }
 
-.tipo{
-	width: 100%;
-	height: 100vh;
+.caja{
+	height: 268px;
+    margin: 7px;
+	background-color: lavender;
+	overflow: hidden;
+}
+.caja2{
+	height: 544px;
+    margin: 7px;
+	background-color: lavenderblush;
+	overflow: hidden;
+}
+
+.cont{
+	padding: 0;
+	height: 88vh;
 }
